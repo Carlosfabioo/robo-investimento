@@ -1,0 +1,54 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-weight: 900;
+    font-size: 50px;
+    line-height:50px;
+    color: #04050c;
+    margin-left: 24px;
+  }
+  
+  p {
+    color: #0a23dd;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  section {
+    display: inline-block;
+    margin-left: 86px;
+    display: inline-block;
+    width: 600px;
+  }
+  
+  .cta-button:hover {
+    background-color: #6fbf49;
+    border-radius: 6px;
+    height: 51px;
+    width: 124px;
+    cursor: pointer;
+    border: 1px solid #4cb538;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    color:#FFFFFF;
+    letter-spacing: 1px;
+  }
+  
+  .cta-button:hover 
+  {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+    letter-spacing: 1px;
+    margin-left: 24px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+  }
